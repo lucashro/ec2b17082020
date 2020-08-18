@@ -1,0 +1,10 @@
+
+
+Será utilizado aproximadamente sete software para a criação 
+O programa será feito em um app mobile onde o usuário irá solicitar a viagem.
+Será necessário um software para programação e calculos de preço e quilometragem.
+Software para designer do app.
+Software de GPS.
+Software para cadastramento de clientes.
+Software para armazenamento de dados em nuvem.
+Software IA para o carro seguir o trajeto.

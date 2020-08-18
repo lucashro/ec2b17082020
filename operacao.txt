@@ -1,0 +1,6 @@
+
+O carro será controlado por uma IA.
+App vai mandar as coordenadas para a IA via satelite que irá seguir o destino solicitado pelo cliente.
+Assim que o passageiro solicitar a viagem o carro vai para o ponto de embarque que o cliente irá colocar.
+Antes dele confirmar a viagem o app mostrará o caminho que o veiculo irá fazer e o valor da viagem.
+Assim que o veiculo chegar no local de embarque o app pedirá uma confirmação de que o cliente está no carro e o endereço de desembarque correto.

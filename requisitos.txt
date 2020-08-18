@@ -1,0 +1,5 @@
+
+
+Calcular valor de acordo com a quilometragem.
+O veículo será automatizado ( Não irá ter condutor ).
+Limitar o valor em até 10 dolares.

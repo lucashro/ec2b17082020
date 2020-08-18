@@ -1,0 +1,9 @@
+
+
+App com um design inovador e simples para facilitar o uso para as pessoas com menos pratica com a tecnologia.
+Com uma tela de cadastramento facíl e rapido.
+O código realizara calculos para definir o valor de acordo com a quilometragem limitado o valor de até 10 dolares por viagem e irá mostra para o usuário quanto ele irá pagar.
+Com o software de GPS o usuário poderá saber onde se encontra o veículo e acompanhar a viagem.
+Todas as viagens, informações e feedbacks para melhora do app em armazenamento em nuvem para que nenhum dado seja perdido.
+O carro será controlado via satelite por uma Inteligência Artificial segura.
+
